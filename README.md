@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Shivam Vaghani Header" width="100%" />
+  <img src="header.svg?v=3" alt="Shivam Vaghani Header" width="100%" />
 </p>
 
 <p align="center">
