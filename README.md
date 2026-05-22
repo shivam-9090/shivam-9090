@@ -21,9 +21,7 @@ I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intellige
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,electron,nodejs,docker,postgres,react,flutter,git,github,bash" />
-  </a>
+  <img src="tech_stack.svg?v=1" alt="My Tech Stack" width="100%" />
 </p>
 
 ---
