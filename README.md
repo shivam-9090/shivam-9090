@@ -30,38 +30,62 @@ I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intellige
 ### 🤝 Open Source Contributions
 
 <table>
+  <!-- Row 1: OpenClaw and Open WebUI -->
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/openclaw/openclaw">🐈‍⬛ openclaw/openclaw</a></strong><br/>
-      <small><code>Agents</code> <code>Workflows</code> <code>Docker</code></small><br/>
-      <small>AI agent workflow & tool orchestration platform.</small>
+      <h3><a href="https://github.com/openclaw/openclaw">🐈‍⬛ OpenClaw</a></h3>
+      <p align="left">
+        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /></a>
+        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" /></a>
+        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Vitest-%23139F5C.svg?style=flat-square&logo=vitest&logoColor=white" /></a>
+      </p>
+      <p><strong>Contribution:</strong> Fixed isolated Codex app-server process leaks during initialization and request timeouts.</p>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/open-webui/open-webui">🖥️ open-webui/open-webui</a></strong><br/>
-      <small><code>React</code> <code>Python</code> <code>Local AI</code></small><br/>
-      <small>User-friendly WebUI for local and remote LLMs.</small>
+      <h3><a href="https://github.com/open-webui/open-webui">🖥️ Open WebUI</a></h3>
+      <p align="left">
+        <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /></a>
+        <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
+        <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" /></a>
+      </p>
+      <p><strong>Contribution:</strong> Optimizing model orchestration pipelines and custom tool deployment configuration.</p>
     </td>
   </tr>
+  
+  <!-- Row 2: ComfyUI and Ollama -->
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/Comfy-Org/ComfyUI">🎨 Comfy-Org/ComfyUI</a></strong><br/>
-      <small><code>Python</code> <code>PyTorch</code> <code>VTON</code></small><br/>
-      <small>Node-based GUI pipeline for generative image models.</small>
+      <h3><a href="https://github.com/Comfy-Org/ComfyUI">🎨 ComfyUI</a></h3>
+      <p align="left">
+        <a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
+        <a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" /></a>
+        <a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" /></a>
+      </p>
+      <p><strong>Contribution:</strong> Designing image-based virtual try-on pipelines and custom neural network nodes.</p>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/ollama/ollama">🦙 ollama/ollama</a></strong><br/>
-      <small><code>Go</code> <code>C++</code> <code>GPU</code></small><br/>
-      <small>Lightweight framework for running LLMs locally.</small>
+      <h3><a href="https://github.com/ollama/ollama">🦙 Ollama</a></h3>
+      <p align="left">
+        <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" /></a>
+        <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
+        <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/GPU-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" /></a>
+      </p>
+      <p><strong>Contribution:</strong> Custom model runner templates and local inference pipeline optimization.</p>
     </td>
   </tr>
+
+  <!-- Row 3: AutoGen -->
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/microsoft/autogen">🤖 microsoft/autogen</a></strong><br/>
-      <small><code>Python</code> <code>Multi-Agent</code> <code>LLMs</code></small><br/>
-      <small>Multi-agent conversation framework.</small>
+      <h3><a href="https://github.com/microsoft/autogen">🤖 AutoGen</a></h3>
+      <p align="left">
+        <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
+        <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Multi--Agent-%23FF8C00.svg?style=flat-square&logo=openai&logoColor=white" /></a>
+      </p>
+      <p><strong>Contribution:</strong> Implementing multi-agent orchestration layers and autonomous execution logic.</p>
     </td>
     <td width="50%" valign="top">
-      <!-- Placeholder/Future -->
+      <!-- Symmetrical spacing -->
     </td>
   </tr>
 </table>
