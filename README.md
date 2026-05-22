@@ -30,10 +30,11 @@ I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intellige
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-9090&show_icons=true&theme=tokyonight&count_private=true" alt="Shivam's GitHub Stats" height="195px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Streak" height="195px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Stats" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Streak" height="200px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-9090&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam-9090&theme=tokyonight" alt="Top Languages" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam-9090&theme=tokyonight" alt="GitHub Stats" height="200px" />
 </p>
