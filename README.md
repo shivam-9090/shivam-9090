@@ -27,6 +27,47 @@ I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intellige
 
 ---
 
+### 🤝 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/openclaw/openclaw">🐈‍⬛ openclaw/openclaw</a></strong><br/>
+      <small><code>Agents</code> <code>Workflows</code> <code>Docker</code></small><br/>
+      <small>AI agent workflow & tool orchestration platform.</small>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/open-webui/open-webui">🖥️ open-webui/open-webui</a></strong><br/>
+      <small><code>React</code> <code>Python</code> <code>Local AI</code></small><br/>
+      <small>User-friendly WebUI for local and remote LLMs.</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Comfy-Org/ComfyUI">🎨 Comfy-Org/ComfyUI</a></strong><br/>
+      <small><code>Python</code> <code>PyTorch</code> <code>VTON</code></small><br/>
+      <small>Node-based GUI pipeline for generative image models.</small>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ollama/ollama">🦙 ollama/ollama</a></strong><br/>
+      <small><code>Go</code> <code>C++</code> <code>GPU</code></small><br/>
+      <small>Lightweight framework for running LLMs locally.</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/microsoft/autogen">🤖 microsoft/autogen</a></strong><br/>
+      <small><code>Python</code> <code>Multi-Agent</code> <code>LLMs</code></small><br/>
+      <small>Multi-agent conversation framework.</small>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Placeholder/Future -->
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
