@@ -104,12 +104,22 @@ I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intellige
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Stats" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Streak" height="200px" />
+<p align="center">
+  <a href="https://github.com/shivam-9090">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Stats" height="195px" />
+  </a>
 </p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam-9090&theme=tokyonight" alt="Top Languages" height="200px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam-9090&theme=tokyonight" alt="GitHub Stats" height="200px" />
+<p align="center">
+  <a href="https://github.com/shivam-9090">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Streak" height="195px" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/shivam-9090">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam-9090&theme=tokyonight" alt="Top Languages" height="195px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shivam-9090">
+    <img src="https://github-profile-summary-cards.vercelapp/api/cards/stats?username=shivam-9090&theme=tokyonight" alt="GitHub Stats" height="195px" />
+  </a>
 </p>
