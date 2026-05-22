@@ -17,11 +17,6 @@
         to { transform: rotate(0deg); }
       }
 
-      /* Crawling dots animation for curly braces */
-      @keyframes crawl-dots {
-        to { stroke-dashoffset: -20; }
-      }
-
       /* Text Fade In */
       @keyframes fadeIn {
         from { opacity: 0; }
@@ -36,11 +31,6 @@
       .rotating-circle-2 {
         animation: rotate-counter-clockwise 30s linear infinite;
         transform-origin: 670px 125px;
-      }
-
-      .crawling-brace {
-        stroke-dasharray: 6 6;
-        animation: crawl-dots 1.5s linear infinite;
       }
 
       .name-text {
@@ -96,18 +86,13 @@
   <!-- Dotted Animations Group (Centered around X=670, Y=125) -->
   <g class="container">
     <!-- Inner Dotted Circle (Orange Accent) -->
-    <circle class="rotating-circle-1" cx="670" cy="125" r="80" fill="none" stroke="#EA580C" stroke-width="2" stroke-dasharray="4 8" stroke-opacity="0.8" />
+    <circle class="rotating-circle-1" cx="670" cy="125" r="65" fill="none" stroke="#EA580C" stroke-width="2.2" stroke-dasharray="4 8" stroke-opacity="0.9" />
     
-    <!-- Outer Dotted Circle (Muted Gray-Blue) -->
-    <circle class="rotating-circle-2" cx="670" cy="125" r="95" fill="none" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="2 10" stroke-opacity="0.6" />
+    <!-- Middle Dotted Circle (Muted Gray-Blue) -->
+    <circle class="rotating-circle-2" cx="670" cy="125" r="80" fill="none" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="2 10" stroke-opacity="0.6" />
 
-    <!-- Animated Left Curly Brace (Dotted/Crawling) -->
-    <path class="crawling-brace" d="M 625,70 C 600,70 590,90 590,110 L 590,118 C 590,123 583,125 575,125 C 583,125 590,127 590,132 L 590,140 C 590,160 600,180 625,180" 
-          fill="none" stroke="#EA580C" stroke-width="3.5" stroke-linecap="round" />
-
-    <!-- Animated Right Curly Brace (Dotted/Crawling) -->
-    <path class="crawling-brace" d="M 715,70 C 740,70 750,90 750,110 L 750,118 C 750,123 757,125 765,125 C 757,125 750,127 750,132 L 750,140 C 750,160 740,180 715,180" 
-          fill="none" stroke="#EA580C" stroke-width="3.5" stroke-linecap="round" />
+    <!-- Outer Dotted Circle (Soft Orange Accent) -->
+    <circle class="rotating-circle-1" cx="670" cy="125" r="95" fill="none" stroke="#FDBA74" stroke-width="1.5" stroke-dasharray="8 8" stroke-opacity="0.7" />
   </g>
 
   <!-- Text and Left Accent Content Group -->
