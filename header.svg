@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <!-- Fonts and Animations -->
+    <style type="text/css">
+      .container {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      }
+      
+      /* Rotations for Dotted Circles */
+      @keyframes rotate-clockwise {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      
+      @keyframes rotate-counter-clockwise {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+
+      /* Crawling dots animation for curly braces */
+      @keyframes crawl-dots {
+        to { stroke-dashoffset: -20; }
+      }
+
+      /* Text Fade In */
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+
+      .rotating-circle-1 {
+        animation: rotate-clockwise 25s linear infinite;
+        transform-origin: 670px 125px;
+      }
+      
+      .rotating-circle-2 {
+        animation: rotate-counter-clockwise 30s linear infinite;
+        transform-origin: 670px 125px;
+      }
+
+      .crawling-brace {
+        stroke-dasharray: 6 6;
+        animation: crawl-dots 1.5s linear infinite;
+      }
+
+      .name-text {
+        font-size: 54px;
+        font-weight: 800;
+        fill: #0F172A;
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out forwards;
+        animation-delay: 0.2s;
+        letter-spacing: -0.5px;
+      }
+
+      .title-text {
+        font-size: 22px;
+        font-weight: 600;
+        fill: #475569;
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out forwards;
+        animation-delay: 0.6s;
+        letter-spacing: 0.5px;
+      }
+      
+      .tagline-text {
+        font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, "Liberation Mono", monospace;
+        font-size: 14px;
+        fill: #64748B;
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out forwards;
+        animation-delay: 1s;
+      }
+
+      .accent-line {
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out forwards;
+        animation-delay: 0.1s;
+      }
+    </style>
+
+    <!-- Dot Grid Pattern -->
+    <pattern id="dot-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#E2E8F0" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base (White/Slate-50) -->
+  <rect width="850" height="250" rx="16" fill="#FFFFFF" />
+  <rect width="850" height="250" rx="16" fill="url(#dot-grid)" />
+
+  <!-- Outer Border -->
+  <rect width="848" height="248" x="1" y="1" rx="15" fill="none" stroke="#E2E8F0" stroke-width="1.5" />
+  <rect width="848" height="248" x="1" y="1" rx="15" fill="none" stroke="#FFE4E6" stroke-width="1.5" stroke-opacity="0.5" />
+
+  <!-- Dotted Animations Group (Centered around X=670, Y=125) -->
+  <g class="container">
+    <!-- Inner Dotted Circle (Orange Accent) -->
+    <circle class="rotating-circle-1" cx="670" cy="125" r="80" fill="none" stroke="#EA580C" stroke-width="2" stroke-dasharray="4 8" stroke-opacity="0.8" />
+    
+    <!-- Outer Dotted Circle (Muted Gray-Blue) -->
+    <circle class="rotating-circle-2" cx="670" cy="125" r="95" fill="none" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="2 10" stroke-opacity="0.6" />
+
+    <!-- Animated Left Curly Brace (Dotted/Crawling) -->
+    <path class="crawling-brace" d="M 625,70 C 600,70 590,90 590,110 L 590,118 C 590,123 583,125 575,125 C 583,125 590,127 590,132 L 590,140 C 590,160 600,180 625,180" 
+          fill="none" stroke="#EA580C" stroke-width="3.5" stroke-linecap="round" />
+
+    <!-- Animated Right Curly Brace (Dotted/Crawling) -->
+    <path class="crawling-brace" d="M 715,70 C 740,70 750,90 750,110 L 750,118 C 750,123 757,125 765,125 C 757,125 750,127 750,132 L 750,140 C 750,160 740,180 715,180" 
+          fill="none" stroke="#EA580C" stroke-width="3.5" stroke-linecap="round" />
+  </g>
+
+  <!-- Text and Left Accent Content Group -->
+  <g class="container">
+    <!-- Solid Orange Left Accent Line -->
+    <line x1="55" y1="55" x2="55" y2="195" stroke="#EA580C" stroke-width="5" stroke-linecap="round" class="accent-line" />
+
+    <!-- Main Header -->
+    <text x="75" y="105" class="name-text">
+      Shivam <tspan fill="#EA580C">Vaghani</tspan>
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="75" y="148" class="title-text">AI/ML Engineer &amp; Full-Stack Developer</text>
+    
+    <!-- Code Tagline with syntax-colored braces -->
+    <text x="75" y="188" class="tagline-text">
+      const <tspan fill="#0F172A" font-weight="600">developer</tspan> = <tspan fill="#EA580C" font-weight="700">{</tspan> focus: <tspan fill="#0F172A">"AI/ML"</tspan>, stack: <tspan fill="#0F172A">"Full-Stack"</tspan> <tspan fill="#EA580C" font-weight="700">}</tspan>;
+    </text>
+  </g>
+</svg>

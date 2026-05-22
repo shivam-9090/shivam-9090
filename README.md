@@ -1,6 +1,18 @@
-# Hey, I'm Shivam 👋
+<p align="center">
+  <img src="header.svg" alt="Shivam Vaghani Header" width="100%" />
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=38BDF8&width=450&lines=Building+AI+systems;Training+ML+models;Creating+desktop+apps;Full-stack+development" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=38BDF8&width=450&lines=Building+AI+systems;Training+ML+models;Creating+desktop+apps;Full-stack+development" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam-9090&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/shivam-9090?label=Followers&style=flat-square&color=818cf8" alt="Followers" />
+</p>
 
 I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intelligent automation, computer vision pipelines, and high-performance desktop environments.
 
