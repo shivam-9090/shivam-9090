@@ -1,135 +1,114 @@
 <p align="center">
-  <img src="header.svg?v=3" alt="Shivam Vaghani Header" width="100%" />
+  <img src="header.svg?v=4" alt="Shivam Vaghani — AI/ML Engineer and Full-Stack Product Developer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=38BDF8&width=450&lines=Building+AI+systems;Training+ML+models;Creating+desktop+apps;Full-stack+development" alt="Typing SVG" />
-  </a>
+  <a href="https://infovision.digital/"><b>Studio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://crm.infovision.digital/"><b>CRM Vision</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://nivassetu.com/"><b>NivaSetu</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/shivam-9090"><b>GitHub</b></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivam-9090&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/shivam-9090?label=Followers&style=flat-square&color=818cf8" alt="Followers" />
-</p>
+<br />
 
-I am an **AI/ML Engineer & Full-Stack Developer** focused on designing intelligent automation, computer vision pipelines, and high-performance desktop environments.
+## Engineering products that feel clear, fast, and dependable.
 
----
+I build intelligent software from the first system diagram to the final interaction. My work sits at the intersection of **AI engineering**, **full-stack product development**, and **high-quality interface design**—with a strong bias toward solutions that are useful in production, not only impressive in demos.
 
-### 🛠️ Tech Stack
+Currently building products and digital systems at **[InfoVision Digital](https://infovision.digital/)** from Surat, India.
 
-<p align="left">
-  <img src="tech_stack.svg?v=1" alt="My Tech Stack" width="100%" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[ai-catalog-generator](https://github.com/shivam-9090/ai-catalog-generator)** | Automated catalog generation system powered by Large Language Models. | `Python` `FastAPI` `LLMs` |
-| **[virtual-tryon-pipeline](https://github.com/shivam-9090/virtual-tryon-pipeline)** | High-fidelity computer vision pipeline for image-based virtual try-on. | `PyTorch` `CUDA` `Python` |
-| **[electron-crm-platform](https://github.com/shivam-9090/electron-crm-platform)** | High-performance, secure CRM desktop client for business operations. | `Electron` `React` `PostgreSQL` |
-| **[safe-browser-app](https://github.com/shivam-9090/safe-browser-app)** | Secure, isolated desktop browsing utility with integrated security controls. | `Electron` `Node.js` `JavaScript` |
-
----
-
-### 🤝 Open Source Contributions
+<br />
 
 <table>
-  <!-- Row 1: OpenClaw and Open WebUI -->
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/openclaw/openclaw">🐈‍⬛ OpenClaw</a></h3>
-      <p align="left">
-        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /></a>
-        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" /></a>
-        <a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/badge/Vitest-%23139F5C.svg?style=flat-square&logo=vitest&logoColor=white" /></a>
-      </p>
-      <p><strong>Contribution:</strong> Fixed isolated Codex app-server process leaks during initialization and request timeouts.</p>
+    <td width="33%" valign="top">
+      <h3>01 / Intelligent systems</h3>
+      <p>LLM workflows, automation, computer vision, model integration, and AI-assisted product experiences.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/open-webui/open-webui">🖥️ Open WebUI</a></h3>
-      <p align="left">
-        <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /></a>
-        <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
-        <a href="https://github.com/open-webui/open-webui"><img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" /></a>
-      </p>
-      <p><strong>Contribution:</strong> Optimizing model orchestration pipelines and custom tool deployment configuration.</p>
+    <td width="33%" valign="top">
+      <h3>02 / Product engineering</h3>
+      <p>Full-stack platforms, APIs, real-time features, data architecture, authentication, and scalable delivery.</p>
     </td>
-  </tr>
-  
-  <!-- Row 2: ComfyUI and Ollama -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Comfy-Org/ComfyUI">🎨 ComfyUI</a></h3>
-      <p align="left">
-        <a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
-        <a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" /></a>
-        <a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" /></a>
-      </p>
-      <p><strong>Contribution:</strong> Designing image-based virtual try-on pipelines and custom neural network nodes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ollama/ollama">🦙 Ollama</a></h3>
-      <p align="left">
-        <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" /></a>
-        <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
-        <a href="https://github.com/ollama/ollama"><img src="https://img.shields.io/badge/GPU-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" /></a>
-      </p>
-      <p><strong>Contribution:</strong> Custom model runner templates and local inference pipeline optimization.</p>
-    </td>
-  </tr>
-
-  <!-- Row 3: AutoGen -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/microsoft/autogen">🤖 AutoGen</a></h3>
-      <p align="left">
-        <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /></a>
-        <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Multi--Agent-%23FF8C00.svg?style=flat-square&logo=openai&logoColor=white" /></a>
-      </p>
-      <p><strong>Contribution:</strong> Implementing multi-agent orchestration layers and autonomous execution logic.</p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Symmetrical spacing -->
+    <td width="33%" valign="top">
+      <h3>03 / Experience design</h3>
+      <p>Editorial interfaces, responsive systems, motion with purpose, accessibility, and performance.</p>
     </td>
   </tr>
 </table>
 
----
+<br />
 
-### 🐍 Contribution Snake
+## Selected work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://crm.infovision.digital/">CRM Vision ↗</a></h3>
+      <p>A production CRM platform for managing pipelines, companies, contacts, activities, teams, and business health from one operating system.</p>
+      <p><code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Redis</code></p>
+      <a href="https://github.com/shivam-9090/CRM-VISION">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://nivassetu.com/">NivaSetu ↗</a></h3>
+      <p>A direct-to-owner property platform designed to make renting in Gujarat simpler, more transparent, and less dependent on brokers.</p>
+      <p><code>Flutter</code> <code>React</code> <code>APIs</code> <code>Product Design</code></p>
+      <a href="https://nivassetu.com/">Visit product →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://infovision.digital/">InfoVision Digital ↗</a></h3>
+      <p>A software studio presence shaped around premium web applications, mobile products, custom platforms, and AI integrations.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Motion</code></p>
+      <a href="https://github.com/shivam-9090/infovision-digital">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shivam-9090/EXOVITA-ECOMMERCE">Exovita Commerce ↗</a></h3>
+      <p>A modern commerce build focused on a polished catalogue experience, responsive interaction, and production-ready frontend foundations.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>E-commerce</code></p>
+      <a href="https://github.com/shivam-9090/EXOVITA-ECOMMERCE">View repository →</a>
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-### 📊 GitHub Analytics
+## Core stack
+
+```text
+Frontend       TypeScript · React · Next.js · Tailwind CSS
+Backend        Node.js · NestJS · FastAPI · PostgreSQL · Redis
+AI & Data      Python · PyTorch · TensorFlow · LLM workflows
+Mobile         Flutter · Dart · React Native
+Infrastructure Docker · GitHub Actions · Linux · Cloud deployments
+```
+
+<br />
+
+## How I work
+
+- **Clarity before complexity** — start from the user, the business constraint, and the simplest durable architecture.
+- **Production is the benchmark** — responsive UI, safe data flows, performance, observability, and maintainable code are part of the feature.
+- **Ownership across layers** — move comfortably between interface details, application state, APIs, databases, and deployment.
+- **Design and engineering belong together** — the strongest products make technical depth feel effortless.
+
+<br />
+
+## GitHub, at a glance
 
 <p align="center">
-  <a href="https://github.com/shivam-9090">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Stats" height="195px" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam-9090&theme=tokyonight" alt="Shivam Vaghani's GitHub contribution overview" width="100%" />
 </p>
-<p align="center">
-  <a href="https://github.com/shivam-9090">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-9090&theme=tokyonight" alt="Shivam's GitHub Streak" height="195px" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/shivam-9090">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam-9090&theme=tokyonight" alt="Top Languages" height="195px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/shivam-9090">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam-9090&theme=tokyonight" alt="GitHub Stats" height="195px" />
-  </a>
-</p>
+
+<br />
+
+<div align="center">
+  <p><b>Have an ambitious product to build?</b></p>
+  <p>
+    <a href="https://infovision.digital/">Start a conversation through InfoVision Digital</a>
+  </p>
+  <sub>Thoughtful systems. Precise execution. Software built to last.</sub>
+</div>
